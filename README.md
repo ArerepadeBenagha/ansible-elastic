@@ -1,5 +1,4 @@
 # ansible-elastic-cloud-enterprise
-
 Ansible role for installing [Elastic Cloud Enterprise](https://www.elastic.co/products/ece) and preparing hosts for it.
 
 ## Requirements
